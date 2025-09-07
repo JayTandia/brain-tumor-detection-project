@@ -28,15 +28,3 @@ Brain Tumors are complex. There are a lot of abnormalities in the sizes and loca
 |**Model Size**|549mb|233mb|171mb|97.8mb|104mb|255mb|30.8mb|49.7mb|
 
 <hr>
-
-## Screenshots
-
-### **Upload Brain MRI Scan**
-
-<img src="static\images\mri-home.PNG" alt="FIFA" />
-
-### **The Prediction Page**
-
-<img src="static\images\mri-pred.PNG" alt="FIFA" />
-
-<hr>
